@@ -27,7 +27,7 @@ area = st.selectbox("Select Area",["Semi-Urban","Urban"])
 #data = pd.read_csv("dataset/Dataset3-Telco-Customer-Churn.csv")
 #data
 
-#click = st.button("Submit")
+click = st.button("Submit")
 
 if click:
     if gender=="Female":
